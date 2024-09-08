@@ -2,7 +2,7 @@
 
 **Repository Contents:**
 
-This repository contains C programs written to reinforce understanding of C programming concepts. These programs were completed for the C programming course for computer engineers at Ladoke Akintola University of Technology during the Previous Semester. The code includes examples of:
+This repository contains C programs written to reinforce understanding of C programming concepts. These programs were completed for the CPE 203 course at Ladoke Akintola University Of Technology during the Previous Semester. The code includes examples of:
 
 * **3x3 matrix:** Basic matrix operations.
 * **Addition:** Simple arithmetic operations.
